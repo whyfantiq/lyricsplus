@@ -1,2 +1,2 @@
-version: 3.0
+version: 3.1
 download: https://t.me/thefantiq/22
